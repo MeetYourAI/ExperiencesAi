@@ -1,2 +1,5 @@
-# AIProperty
-Testing a new template prototype for SmartLet
+# Experiences Ai
+
+Static prototype repo for experiences Ai project
+
+Team: Anaïs Gilbert and Mohamed Karam
