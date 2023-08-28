@@ -32,19 +32,19 @@ Template Description: IT Solutions & Business Services Responsive HTML5 Bootstra
 :root {
   /*Colors CSS Varibales*/
   /*================  main-color values */
-  --clr-main: #09aff4;
+  --clr-main: #7ab1c8;
   --clr-main-rgb: 9, 175, 244;
   /*================  accent-color values */
-  --clr-accent: #0d1857;
+  --clr-accent: #434551;
   --clr-accent-rgb: 13, 24, 87;
   /*================  secondary-color values */
-  --clr-secondary: #4820a7;
+  --clr-secondary: #7f6ab0;
   --clr-secondary-rgb: 72, 32, 167;
   /*================  white-color values */
   --clr-white: #fff;
   --clr-white-rgb: 255, 255, 255;
   /*================  black-color values */
-  --clr-black: #121212;
+  --clr-black: #726e6e;
   --clr-black-rgb: 18, 18, 18;
   /*================  grey-color values */
   --clr-grey: #f1f1f1;
@@ -59,10 +59,10 @@ Template Description: IT Solutions & Business Services Responsive HTML5 Bootstra
   --clr-extra-dark-grey: #202020;
   --clr-extra-dark-grey-rgb: 32, 32, 32;
   /*================  dark-blue-color values */
-  --clr-dark-blue: #060922;
+  --clr-dark-blue: #121857;
   --clr-dark-blue-rgb: 6, 9, 34;
   /*================  semi-dark-blue-color values */
-  --clr-semi-dark-blue: #000531;
+  --clr-semi-dark-blue: #1f2553;
   --clr-semi-dark-blue-rgb: 0, 5, 49;
   /*================  danger-color values */
   --clr-danger: #fc0000;
