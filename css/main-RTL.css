@@ -31,13 +31,13 @@ Template Description: IT Solutions & Business Services Responsive HTML5 Bootstra
 :root {
   /*Colors CSS Varibales*/
   /*================  main-color values */
-  --clr-main: #09aff4;
+  --clr-main: #15eb96;
   --clr-main-rgb: 9, 175, 244;
   /*================  accent-color values */
-  --clr-accent: #0d1857;
+  --clr-accent: #22aca3;
   --clr-accent-rgb: 13, 24, 87;
   /*================  secondary-color values */
-  --clr-secondary: #4820a7;
+  --clr-secondary: #22cfc1;
   --clr-secondary-rgb: 72, 32, 167;
   /*================  white-color values */
   --clr-white: #fff;
@@ -46,16 +46,16 @@ Template Description: IT Solutions & Business Services Responsive HTML5 Bootstra
   --clr-black: #121212;
   --clr-black-rgb: 18, 18, 18;
   /*================  grey-color values */
-  --clr-grey: #f1f1f1;
+  --clr-grey: #01aa20;
   --clr-grey-rgb: 241, 241, 241;
   /*================  semi-dark-color values */
   --clr-semi-dark: #b8b8b8;
   --clr-semi-dark-rgb: 184, 184, 184;
   /*================  dark-grey-color values */
-  --clr-dark-grey: #4d4d4d;
+  --clr-dark-grey: #2b919c;
   --clr-dark-grey-rgb: 77, 77, 77;
   /*================  extra-dark-grey-color values */
-  --clr-extra-dark-grey: #202020;
+  --clr-extra-dark-grey: #144e30;
   --clr-extra-dark-grey-rgb: 32, 32, 32;
   /*================  dark-blue-color values */
   --clr-dark-blue: #060922;
