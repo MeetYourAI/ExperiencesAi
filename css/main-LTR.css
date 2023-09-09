@@ -403,6 +403,39 @@ a:hover {
   background-repeat: no-repeat;
   background-position: center;
   opacity: 0.05;
+} 
+.ask {
+  display: grid;
+  gap: 30px;
+}
+.ask label {
+  font-size: 30px;
+  font-weight: bold;
+  color: #7ab1c8;
+}
+.ask input[type="submit"] {
+  border-radius: 8px;
+  width: 150px;
+  height: 40px;
+  background-color: #040d4b;
+  font-size: 22px;
+  font-weight: bold;
+  color: #f1f1f1;
+  opacity: 1;
+  cursor: pointer;
+  border: none;
+
+}
+.ask input[type="text"] {
+  border-radius: 5px;
+  width: 500px;
+  height: 50px;
+  /* background-color: #2f40bc; */
+  font-size: 22px;
+  font-weight: bold;
+  color: #201e1e;
+  outline: none;
+
 }
 
 .section-video-bg .video {
