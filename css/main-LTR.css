@@ -435,7 +435,13 @@ a:hover {
   font-weight: bold;
   color: #201e1e;
   outline: none;
+  border: none;
 
+}
+@media (max-width: 991px) {
+  .ask input[type="text"]{
+width: 100%;
+  }
 }
 
 .section-video-bg .video {
