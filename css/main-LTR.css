@@ -32,7 +32,7 @@ Template Description: IT Solutions & Business Services Responsive HTML5 Bootstra
 :root {
   /*Colors CSS Varibales*/
   /*================  main-color values */
-  --clr-main: #7ab1c8;
+  --clr-main: #3950ab;
   --clr-main-rgb: 9, 175, 244;
   /*================  accent-color values */
   --clr-accent: #434551;
@@ -53,19 +53,19 @@ Template Description: IT Solutions & Business Services Responsive HTML5 Bootstra
   --clr-semi-dark: #b8b8b8;
   --clr-semi-dark-rgb: 184, 184, 184;
   /*================  dark-grey-color values */
-  --clr-dark-grey: #4d4d4d;
+  --clr-dark-grey: #231e1e;
   --clr-dark-grey-rgb: 77, 77, 77;
   /*================  extra-dark-grey-color values */
   --clr-extra-dark-grey: #202020;
   --clr-extra-dark-grey-rgb: 32, 32, 32;
   /*================  dark-blue-color values */
-  --clr-dark-blue: #121857;
+  --clr-dark-blue: #131742fb;
   --clr-dark-blue-rgb: 6, 9, 34;
   /*================  semi-dark-blue-color values */
   --clr-semi-dark-blue: #1f2553;
   --clr-semi-dark-blue-rgb: 0, 5, 49;
   /*================  danger-color values */
-  --clr-danger: #fc0000;
+  --clr-danger: #7c7c7c;
   --clr-danger-rgb: 252, 0, 0;
   /*================  success-color values */
   --clr-success: #217234;
@@ -4609,6 +4609,7 @@ opacity: 2;
 
 @media (max-width: 991px) {
   .pricing .plan:hover {
+
 top: 0;
     opacity: 2;
     }
