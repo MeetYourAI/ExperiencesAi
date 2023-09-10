@@ -4607,6 +4607,12 @@ top: 10px;
 opacity: 2;
 }
 
+@media (max-width: 991px) {
+  .pricing .plan:hover {
+top: 0;
+    opacity: 2;
+    }
+}
 
 .pricing .plan {
   height: 100%;
