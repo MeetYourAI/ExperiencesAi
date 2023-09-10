@@ -4598,6 +4598,23 @@ body.rounded-btns .read-more {
   margin: 0;
   padding: 1rem 0;
   margin-bottom: 1rem;
+font-weight:bold;
+font-size:9rem;
+}
+.pricing .plan:hover {
+
+top: 10px;
+opacity: 2;
+}
+
+
+.pricing .plan {
+  height: 100%;
+  border-radius: 40px;
+  /* background-color: rgb(18, 43, 102); */
+  box-shadow: 0 14px 14px rgba(var(--clr-main-rgb), 0.15);
+  transition: 0.3;
+
 }
 .pricing .plan .plan-list .plan-feat {
   position: relative;
@@ -4608,6 +4625,11 @@ body.rounded-btns .read-more {
   align-items: center;
   justify-content: center;
 }
+.pricing .plan-price{
+line-height: 1.8;
+}
+
+
 .pricing .plan .plan-list .plan-feat .feat-icon {
   color: var(--clr-main);
   font-size: 1.5rem;
