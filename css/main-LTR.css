@@ -2112,16 +2112,17 @@ body.rounded-btns .read-more {
 .page-hero .hero-image-area img {
     right: -60px;
     top: 20px;
-  }
-        .text-center .mx-auto .service-box .service-content h3 {
+  } }
+        /* .text-center .mx-auto .service-box .service-content h3 {
 
         }
-}
+} */
     .text-center .mx-auto .service-box .service-content  h3 {
-position: absolute;
-align-items: center;
-justify-content: center;
-left: 150px;
+/* position: absolute; */
+/* align-items: center;
+justify-content: center; */
+width: 100%;
+margin-top: 30px;
 }
 
 
