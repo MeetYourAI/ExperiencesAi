@@ -29,6 +29,7 @@ Template Description: IT Solutions & Business Services Responsive HTML5 Bootstra
 - Dark Theme Rules
 ===*/
 /* start global, helper classes , Components Rules*/
+
 :root {
   /*Colors CSS Varibales*/
   /*================  main-color values */
@@ -2093,6 +2094,7 @@ body.rounded-btns .read-more {
     height: auto;
   }
 }
+
 .page-hero .hero-image-area {
   position: relative;
 }
@@ -2102,6 +2104,24 @@ body.rounded-btns .read-more {
   margin-bottom: 40px;
   padding: 0 0 0 0;
   outline: none;
+  position: relative;
+  right: -100px;
+  top: 50px;
+}
+@media (max-width: 991px) {
+.page-hero .hero-image-area img {
+    right: -60px;
+    top: 20px;
+  }
+        .text-center .mx-auto .service-box .service-content h3 {
+
+        }
+}
+    .text-center .mx-auto .service-box .service-content  h3 {
+position: absolute;
+align-items: center;
+justify-content: center;
+left: 150px;
 }
 
 
